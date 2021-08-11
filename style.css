@@ -13,7 +13,7 @@ body {
     color: teal;
    }
   main, article {
-      font-size: 16px;
+      font-size: 18px;
     font-family: "gill sans",monospace
   }
 /* creating a button*/
@@ -27,5 +27,5 @@ body {
     border-radius: 10px;       
   }
   footer {
-      font-size: 12px;
+      font-size: 16px;
   }
